@@ -4,3 +4,6 @@ Git clone
 git add .
 git commit -m « commentaire fichier »
 git push
+
+- commande pour pull : 
+git pull
